@@ -1,0 +1,5 @@
+java DvrPr E 2004 configE.txt
+java DvrPr D 2003 configD.txt
+java DvrPr C 2002 configC.txt
+java DvrPr B 2001 configB.txt
+java DvrPr A 2000 configA.txt
